@@ -1,0 +1,26 @@
+body {
+    background: url('./bg.png') center center fixed no-repeat;
+
+}
+
+.sub-box {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: monospace;
+    font-size: 30px;
+    width: auto;
+}
+
+.box {
+    margin: 200px;
+    width: auto;
+    border: 1px solid #eee;
+    padding: 20px;
+    border-radius: 5px;
+    background: #fff;
+}
+
+.big {
+    font-size: 80px;
+}
